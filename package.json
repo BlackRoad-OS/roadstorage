@@ -1,0 +1,17 @@
+{
+  "name": "roadstorage",
+  "version": "0.1.0",
+  "description": "BlackRoad Object Storage - S3-compatible API",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "keywords": ["storage", "s3", "r2", "object", "cloudflare", "blackroad"],
+  "author": "BlackRoad OS",
+  "license": "Proprietary",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240117.0",
+    "wrangler": "^3.24.0"
+  }
+}
