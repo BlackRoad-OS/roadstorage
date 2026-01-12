@@ -1,0 +1,5 @@
+[project]
+name = "roadstorage"
+version = "0.1.0"
+description = "roadstorage - BlackRoad OS"
+requires-python = ">=3.10"
